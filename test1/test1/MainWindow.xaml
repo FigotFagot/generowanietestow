@@ -5,11 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:test1"
         mc:Ignorable="d"
-<<<<<<< HEAD
         Title="MainWindow" Height="775" Width="800">
-=======
-        Title="MainWindow" Height="775" Width="610">
->>>>>>> refs/remotes/origin/master
     <Grid>
 
         <Menu>
